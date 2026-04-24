@@ -1,4 +1,2 @@
 
-# Large dataset files
-AIML Dataset.csv
-*.csv
+# Large dataset files (now tracked via LFS)
